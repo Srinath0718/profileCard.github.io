@@ -29,6 +29,7 @@ body{
   color: white;
   position: relative;
   overflow: hidden;
+  background-color:#800080;
 }
 .box img{
   width:100px;
